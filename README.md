@@ -10,7 +10,8 @@
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ZYWNB666" /> </div>
 
 
-<span > <img src="[https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/python-I_like-blue)" /> </span>
+<img alt="Static Badge" src="https://img.shields.io/badge/python-I_like-blue">
+
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZYWNB666" /> </div>
 
